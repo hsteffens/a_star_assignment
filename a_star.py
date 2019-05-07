@@ -1,4 +1,4 @@
-from ast import literal_eval
+﻿from ast import literal_eval
 
 # goal sempre sera 'bucharest'
 def a_star(start, goal='Bucharest'):
@@ -49,4 +49,4 @@ def sorted_list(s):
     return s[-1]
 
 
-a_star("Lugoj", "Sibiu");
+a_star("Lugoj");
